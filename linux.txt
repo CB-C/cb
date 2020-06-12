@@ -4,3 +4,5 @@ linux总结:
 二、常用命令
 	1、free
 	2、top
+
+/etc/nginx
