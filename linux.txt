@@ -4,5 +4,8 @@ linux总结:
 二、常用命令
 	1、free
 	2、top
+	3、gc
+	4、ps
+	5、df
 
 /etc/nginx
