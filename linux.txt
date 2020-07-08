@@ -1,4 +1,4 @@
-linux总结:
+﻿linux总结:
 一、前序
 	
 二、常用命令
@@ -8,4 +8,4 @@ linux总结:
 	4、ps
 	5、df
 
-/etc/nginx
+/etc/nginx 啊啊啊啊啊
