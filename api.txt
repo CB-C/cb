@@ -1,4 +1,4 @@
-1、接口返回值规范
+﻿1、接口返回值规范
 	json object{
 		code:'1',
 		message: 'success',
@@ -16,3 +16,4 @@
 
 6、哎哎哎我去dsdwoqu
 
+7、git真难用
